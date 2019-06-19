@@ -1,0 +1,425 @@
+@media screen and (max-width:1120px) {
+    .inner_header,
+    .inner-hire-services,
+    .inner-why,
+    .inner-dev,
+    .inner-mark,
+    .inner-you-need,
+    .content-marketing,
+    .inn-free-quote,
+    .inner-footer {
+        width: 96%;
+    }
+    .frodoe-culture ul li {
+        width: 31%;
+        padding: 0% 1%;
+    }
+    .inn-con-line img {
+        padding: 15px 25px 10px 40px;
+    }
+    .menu_box {
+        right: 2%;
+    }
+}
+@media screen and (max-width:1115px) {
+		.app_modern,.app_testing { top:300px;}
+		.app_codevlop,.app_dedicated { bottom:240px;}
+}
+@media screen and (max-width:1100px) {
+	.content-data-sub{ width:98%;}
+	.data-strategy-sub { width:100%;}
+	.collect-data-sub{width:100%;}
+	.border-line{ width:98%;}
+}
+@media screen and (max-width:1023px) {
+    .frodoe-culture ul li h2 {
+        font-size: 28px;
+    }
+    .frodoe-culture ul li p {
+        padding: 20px 0px;
+    }
+	.app_dev,.app_manintain,.app_modern, .app_testing,.app_codevlop, .app_dedicated { width:22%;}
+	.app_modern,.app_testing { top:280px;}
+	.app_codevlop,.app_dedicated { bottom:260px;}
+	.data-cd p {
+    padding: 13px 12px 0px 0px;
+	}
+}
+
+@media screen and (max-width:959px) {
+    .inner-hire-services-text,
+    .copy-why {
+        width: 100%;
+    }
+    .inner-why h1,
+    .inner-mark h1 {
+        font-size: 65px;
+    }
+    .inn-con-line img {
+        padding: 20px 20px 10px 20px;
+    }
+    .input-form {
+        width: 55%;
+    }
+	.data-cd p {
+    padding: 22px 12px 0px 0px;
+    line-height: 16px;
+    font-size: 13px;
+	}
+    .inn-free-quote h1 {
+        font-size: 58px;
+    }
+	.app_modern,.app_testing { top:230px;}
+	.app_codevlop,.app_dedicated { bottom:240px;}
+	.app_codevlo { left: 50px;}
+	.app_dedicated {right: 50px;}
+}
+@media screen and (max-width:900px) {
+	.uninformed-sub{ width:100%;}
+	.data-cont p {
+    padding: 26px 0px 0px 20px;
+    line-height: 17px;
+    font-size: 14px;}
+	.ds-cont p {
+    padding: 21px 12px 0px 20px !important;
+}
+.data-cd p {
+    padding: 4px 12px 0px 0px;}
+	.nexttab { top:350px;}
+
+.previoustab{ top:350px;}
+}
+@media screen and (max-width:800px) {
+    .frodoe-culture ul li {
+        width: 50%;
+        margin: 0px auto;
+        padding: 0%;
+    }
+    .inner-mark h3 {
+        font-size: 60px;
+    }
+    .inner-mark h4 {
+        font-size: 30px;
+    }
+	
+	.ds-cont p {
+    padding: 16px 12px 0px 20px !important;
+}
+    .inner-you-need h5 {
+        font-size: 37px;
+    }
+    .content-marketing h6 {
+        padding: 0px 20px 30px 20px;
+        font-size: 35px;
+    }
+    .box,
+    .text-box {
+        width: 90%;
+    }
+    .input-form {
+        width: 65%;
+    }
+	.dot {
+    height: 18px;
+    width: 18px;
+    font-size: 12px;
+	}
+}
+
+@media screen and (max-width:767px) {
+    .frodoe-culture ul li {
+        float: none;
+        width: 70%;
+    }
+    .inner-mark h3 {
+        font-size: 50px;
+    }
+    .inner-mark h4 {
+        font-size: 25px;
+    }
+    .input-form {
+        width: 65%;
+    }
+	.nexttab { top:300px;    background-size: 28px;width:28px; height:28px;}
+
+.previoustab{ top:300px;    background-size: 28px; width:28px; height:28px;}
+	.data-cd p {
+    padding: 0px 0px 0px 0px;
+line-height: 14px;
+    font-size: 12px;
+}
+	.ds-cont{ padding:0px 0px 0px 0px !important;}
+    .box {
+        margin: 10px 0px 0px 0px;
+    }
+	.data-cont p {
+    padding: 18px 0px 0px 20px;
+    line-height: 13px;
+    font-size: 12px;
+}
+    .footer-menu {
+        width: 100%;
+    }
+    .footer-menu ul li {
+        padding: 0px 15px;
+    }
+    .inn-free-quote h1 {
+        font-size: 60px;
+    }
+    .inn-free-quote h1 {
+        font-size: 50px;
+    }
+	.app_dev,.app_manintain { top:75px;}
+}
+
+@media screen and (max-width:639px) {
+    .inner-you-need h5 {
+        font-size: 30px;
+    }
+    .content-marketing h6 {
+        font-size: 30px;
+    }
+    .inn-con-line p {
+        padding: 8px 0px;
+    }
+    .inn-con-line img {
+        padding: 15px 20px 10px 20px;
+        width: 5%;
+    }
+    .footer-menu ul li {
+        padding: 0px 9px;
+    }
+		.nexttab { top:260px;}
+
+.previoustab{ top:260px; }
+	.app_modern, .app_testing { top: 215px;}
+}
+
+@media screen and (max-width:589px) {
+    .inner_header_left {
+        width: 14%;
+    }
+    .frodoe-culture ul li {
+        width: 80%;
+    }
+	.uninformed-sub img {
+       padding-top:108px;
+}
+.data-strategy-sub img{
+    padding-top: 108px;
+}
+
+.collect-data-sub img{
+    padding-top: 108px;
+}
+    .inner-hire-services-text,
+    .copy-why {
+        width: 90%;
+    }
+		.nexttab { top:200px;    background-size: 24px;width:24px; height:24px;}
+
+.previoustab{ top:200px;    background-size: 24px; width:24px; height:24px;}
+    .inner-dev {
+        padding: 30px 0px;
+    }
+	.menu {
+    margin: 40px 0px 0px 20px;
+	}
+	.ds-descrp {
+    border-right: none !important; border-bottom:1px solid #FFF !important;}
+    .inner-why h1,
+    .inner-mark h1,
+    .inn-free-quote h1 {
+        font-size: 55px;
+    }
+    .inner-mark h3 {
+        font-size: 40px;
+    }
+	.ds-cont {
+    padding: 34px 0px 0px 0px !important;
+}
+.data-cd { padding:18px 0px 0px 0px !important;}
+    .inner-mark h4 {
+        font-size: 22px;
+    }
+    .content-marketing h6 {
+        font-size: 26px;
+        padding: 0px 20px 30px 10px;
+    }
+    .inn-con-line p {
+        font-size: 18px;
+        padding: 8px 0px;
+    }
+    .inn-con-line img {
+        padding: 15px 20px 10px 10px;
+        width: 5%;
+    }
+	.data-descp {
+    padding: 10px 0px 6px 0px !important;
+	}
+	.data-descp p {
+    padding: 17px 0px 0px 20px !important;
+}
+    .input-form {
+        width: 95%;
+    }
+    .box,
+    .text-box {
+        width: 90%;
+    }
+    .footer-menu ul li {
+        float: none;
+        padding: 0px;
+        margin: 5px 0px;
+        text-align: center;
+    }
+    .inner_header_right ul li a {
+        padding: 35px 0px;
+    }
+	.app_dev,.app_codevlop { left: 30px;}
+	.app_manintain,.app_dedicated { right:30px;}
+	.app_modern, .app_testing { top:190px;}
+	.app_codevlop, .app_dedicated { bottom: 300px;}
+	.inner_header_left img { margin: 15px 0px 10px 0px; margin-left: -90px;}
+	.inner_header_left { width:20%;}
+	.data-descp {
+    float: none;
+    width: 100%;
+	margin:0px;
+	padding: 18px 0px 14px 0px;
+    border-right: none;border-bottom: 1px solid #72c2c9;}
+	.data-cont p {
+    padding: 34px 0px 0px 20px;}
+}
+
+@media screen and (max-width:479px) {
+    .inner_header_left img {
+        margin: 0px 0px 0px 5px;
+		margin-left: -90px;
+    }
+    .inner_header_right ul li a {
+        font-size: 20px;
+        padding: 30px 0px 0px 0px;
+    }
+    .menu img {
+        width: 80%;
+    }
+	.data-cd { padding:7px 0px 0px 0px !important;}
+	.uninformed-sub img {
+       padding-top:84px;
+}
+.data-strategy-sub img{
+    padding-top: 84px;
+}
+
+.collect-data-sub img{
+    padding-top: 84px
+}
+    .menu {
+        margin: 30px 0px 0px 10px;
+    }
+	.ds-cont {
+    padding:14px 0px 0px 0px !important;
+}
+    .inner_header_left {
+        width:27%;
+    }
+	.data-cont p {
+    padding: 24px 0px 0px 20px;
+}
+    .inner-hire-services-text {
+        width: 80%;
+        font-size: 16px;
+        padding: 25px 0px;
+    }
+    .copy-why {
+        width: 80%;
+        font-size: 16px;
+    }
+    .inner-why h1 {
+        font-size: 55px;
+    }
+    .frodoe-culture ul li img {
+        padding: 40px 0px 15px 0px;
+    }
+    .frodoe-culture ul li p {
+        padding: 10px 0px;
+    }
+    .inner-mark h1,
+    .inn-free-quote h1 {
+        font-size: 45px;
+    }
+    .inner-mark h3 {
+        font-size: 33px;
+        padding: 10px 15px;
+    }
+    .inner-mark h4 {
+        font-size: 20px;
+        padding: 10px 15px;
+    }
+    .inner-mark p {
+        font-size: 18px;
+    }
+    .inner-you-need h5 {
+        font-size: 25px;
+        padding: 50px 15px 20px 15px;
+    }
+	.nexttab { top:200px; }
+
+.previoustab{ top:200px;}
+    .inner-you-need p {
+        font-size: 18px;
+        padding: 0px 15px 40px;
+    }
+    .content-marketing h6 {
+        font-size: 22px;
+    }
+    .inn-con-line img {
+        padding: 15px 10px 25px 10px;
+        width: 6%;
+    }
+    .inn-con-line p {
+        font-size: 16px;
+    }
+    .input-form {
+        width: 96%;
+    }
+    .input-form p {
+        font-size: 17px;
+    }
+    .box,
+    .text-box {
+        width: 85%;
+    }
+    .box {
+        margin: 10px 0px 15px 0px;
+    }
+    .menu_box {
+        top: 90%;
+        right: 5%;
+    }
+	.app_dev, .app_codevlop { left:20px;}
+	.app_manintain, .app_dedicated { right:20px;}
+	.app_dev, .app_manintain { top:50px;}
+	.app_modern, .app_testing { top:140px;}
+	.app_codevlop, .app_dedicated { bottom:275px;}
+	.hire-services { padding-top:15%;}
+} 
+@media screen and (max-width:379px) {
+	.data-cd {
+    padding:0px 0px 0px 0px !important;
+}
+.data-cd p {
+    line-height: 13px;
+    font-size: 11px;
+}
+.nexttab { top:150px;right:12px; background-size: 20px; width:20px; height:20px; }
+
+.previoustab{ top:150px;left:12px;  background-size: 20px; width:20px; height:20px; }
+}
+@media screen and (max-width:359px) {
+	.app_modern, .app_testing { top:130px;}	
+	.ds-cont {
+    padding: 0px 0px 0px 0px !important;
+}
+}
